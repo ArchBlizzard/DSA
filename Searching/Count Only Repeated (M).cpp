@@ -25,6 +25,6 @@ class Solution
             }
         }
         
-        return {repeating_element, frequency - 1};//code here
+        return {repeating_element, frequency - 1};
     }
 };
