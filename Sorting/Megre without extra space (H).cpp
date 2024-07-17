@@ -16,6 +16,6 @@ class Solution{
         }
 
         std::sort(arr1, arr1 + n);
-        std::sort(arr2, arr2 + m);// 
+        std::sort(arr2, arr2 + m); 
         } 
 };
