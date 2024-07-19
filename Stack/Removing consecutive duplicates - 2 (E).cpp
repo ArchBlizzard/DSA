@@ -21,6 +21,6 @@ class Solution
             s.pop();
         }
         
-        return result;// Your code here
+        return result;
     }
 };
