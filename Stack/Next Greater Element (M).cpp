@@ -17,6 +17,6 @@ class Solution
             s.push(i);
         }
 
-        return result;// Your code here
+        return result;
     }
 };
