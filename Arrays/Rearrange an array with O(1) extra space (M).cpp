@@ -14,7 +14,7 @@ class Solution{
         }
         for (int i = 0; i < n; i++) {
             arr[i] /= n;
-        }// Your code here
+        }
         
     }
 };
